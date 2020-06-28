@@ -1,0 +1,55 @@
+.myTitle {
+	font-family: "Omnibus-Type", sans-serif;
+	position: fixed;
+	left: 280px;
+	top: 130px
+}
+p{
+	font-family: "Omnibus-Type", sans-serif;
+}
+.grey-btn {
+	background-color: grey;
+	padding: 10px;
+	border-radius: 4px;
+	text-decoration: none;
+	color: white;
+	font-family: "Omnibus-Type", sans-serif;
+}
+
+.grey-btn:hover {
+	background-color: blue;
+}
+#DivMayor{
+	position: fixed;
+	left: 270px;
+	top: 120px;
+	width: 500px;
+	height: 300px;
+	border: 3px solid #73AD21;
+}
+#DivIMG{
+	position: fixed;
+	left: 680px;
+	top: 130px;
+}
+#DivTEXT{
+	position: fixed;
+	left: 280px;
+	top: 200px;
+	width: 300px;
+	height: 200px;
+}
+#DivINPUT{
+	position: fixed;
+	left: 600px;
+	top: 200px;
+}
+#DivButton{
+	position: fixed;
+	left: 450px;
+	top: 350px;
+}
+.borderinput{
+	border: none;
+	text-decoration: underline;
+}
